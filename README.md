@@ -1,1 +1,1 @@
-# graphql-tsks
+# graphql-tasks
